@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Logo from "./logo.png";
 import { Layout, Menu, Button, Dropdown } from "antd";
 import {
   UserSwitchOutlined,
@@ -159,8 +160,10 @@ const Template = ({ children }) => {
   return (
     <Layout>
       <Header style={{ display: "flex", alignItems: "center" }}>
+        <div><img src={Logo} alt="Logo" style={{ width: '150px', marginRight: '10px',marginLeft: '-40px',marginTop: '25px',height: '60px' }} /></div>
         {/* Your logo and menu items */}
         <div style={{ flex: 1, minWidth: 0 }}>
+        
           <Menu
             theme="dark"
             mode="horizontal"
@@ -221,9 +224,9 @@ const Template = ({ children }) => {
         {/* Footer content */}
         <SocialIcons>{/* Social icons */}</SocialIcons>
         <ContactInfo>{/* Contact info */}</ContactInfo>
-        <p>Location: 148/10, Station Road, Jaffna, Sri Lanka.</p>
+        <p>Location: Puttur Road,Chunnakam</p>
         <p>Phone: +94 21 222 0111.</p>
-        <p>Email: info@valampurihotel.com</p>
+        <p>Email: info@Vadalihotel.com</p>
       </StyledFooter>
     </Layout>
   );

@@ -12,7 +12,7 @@ const CustomerAffairsPage = () => {
       <Content style={{ padding: "24px" }}>
         <div style={{ textAlign: "center", marginBottom: "24px" }}>
           <Title level={2} style={{ color: "#1890ff" }}>
-            Welcome to Valampuri Hotel
+            Welcome to Vadali Hotel
           </Title>
           <Paragraph style={{ fontSize: "18px", marginBottom: "16px" }}>
             Your Experience Matters to Us
@@ -22,7 +22,7 @@ const CustomerAffairsPage = () => {
         <div style={{ marginBottom: "24px" }}>
           <Title level={3}>Our Commitment to You</Title>
           <Paragraph style={{ fontSize: "16px" }}>
-            At Valampuri Hotel, we are dedicated to providing exceptional
+            At Vadali Hotel, we are dedicated to providing exceptional
             service and ensuring your satisfaction. Your feedback and concerns
             play a vital role in our continuous improvement process.
           </Paragraph>
@@ -70,7 +70,7 @@ const CustomerAffairsPage = () => {
             <Col xs={24} sm={12}>
               <Paragraph style={{ fontSize: "16px" }}>
                 <strong>Email:</strong>{" "}
-                <a href="mailto:info@valampurihotel.com">info@valampurihotel.com</a>
+                <a href="mailto:info@Vadalihotel.com">info@Vadalihotel.com</a>
               </Paragraph>
             </Col>
             <Col xs={24} sm={12}>

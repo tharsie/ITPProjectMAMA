@@ -407,11 +407,11 @@ const Landing = () => {
       </div>
       <Container>
         <TextContainer>
-          <h2>Valampuri Hotel</h2>
-          <h3>148/10, Station Road, Jaffna, Sri Lanka.</h3>
+          <h2>Vadali Hotel</h2>
+          <h3>Puttur Road,Chunnakam</h3>
           <p>
             Welcome to very special hotel in Jaffna Peninsula, Located adjoining
-            with Jaffna Central Railway Station. Valampuri hotel offers 32
+            with Jaffna Central Railway Station. Vadali hotel offers 32
             spacious deluxe room including 2 Suites. Relax and rejuvenate in our
             Swimming pool, gym and spa. This hotel is part of Green Grass Hotel
             & Restaurant.
@@ -422,7 +422,7 @@ const Landing = () => {
             the luxury furnishings provide a warm contemporary feel.
           </p>
           <p>
-            At Valampuri, our hotel’s exclusive rooftop venue, guests have a
+            At Vadali, our hotel’s exclusive rooftop venue, guests have a
             front-row seat and birds-eye view of Nissan Stadium, CMA Fest,
             concerts on the waterfront, fireworks, and other major Nashville
             events.

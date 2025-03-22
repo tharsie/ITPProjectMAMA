@@ -427,9 +427,6 @@ const App = ({ children, userType }) => {
       }}
     >
       <Sider
-        collapsible
-        collapsed={collapsed}
-        onCollapse={(value) => setCollapsed(value)}
         width={250}
         style={{
           position: "fixed", 

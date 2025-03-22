@@ -159,7 +159,7 @@ const Template = ({ children }) => {
 
   return (
     <Layout>
-      <Header style={{ display: "flex", alignItems: "center" }}>
+      <Header style={{ display: "flex", alignItems: "center",height: '65px' }}>
         <div><img src={Logo} alt="Logo" style={{ width: '150px', marginRight: '10px',marginLeft: '-40px',marginTop: '25px',height: '60px' }} /></div>
         {/* Your logo and menu items */}
         <div style={{ flex: 1, minWidth: 0 }}>
@@ -170,6 +170,7 @@ const Template = ({ children }) => {
             defaultSelectedKeys={["1"]}
             items={headerItems}
             style={{fontSize:'10px'}}
+            b
 
           />
         </div>
